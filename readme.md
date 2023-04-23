@@ -2,7 +2,7 @@
 
 #### 文件结构
 
-![](D:\资料\课程\人工智能\BP_2.0\doc\1.png)
+![](./doc/1.png)
 
 
 
@@ -24,7 +24,7 @@
 
 `#include <io.h>`  为 `#include<unistd.h>`
 
-![](D:\资料\课程\人工智能\BP_2.0\doc\2.png)
+![](./doc/2.png)
 
 
 
@@ -36,7 +36,7 @@
 >
 > `g++ *.cpp -o test`
 >
-> ![](D:\资料\课程\人工智能\BP_2.0\doc\3.png)
+> ![](./doc/3.png)
 >
 > 
 
@@ -50,13 +50,13 @@
 
 `test.exe train n` 进行训练，训练 n 次。
 
-![](D:\资料\课程\人工智能\BP_2.0\doc\4.png)
+![](./doc/4.png)
 
 `test.exe test`  or `test.exe` 进行测试。
 
-![](D:\资料\课程\人工智能\BP_2.0\doc\5.png)
+![](./doc/5.png)
 
-![](D:\资料\课程\人工智能\BP_2.0\doc\6.png)
+![](./doc/6.png)
 
 
 
